@@ -1,3 +1,5 @@
+![Quantum Node Factor Logo](Assets/Logo.svg)
+
 Here’s a solid **starter repo template** for **Quantum Node Factory**. It’s structured like a real systems/engine-style project, but still flexible so you can evolve it into whatever the “quantum node” concept becomes.
 
 ---
