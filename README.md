@@ -1,7 +1,7 @@
 # Quantum Node Factory
 
 <p align="center">
-  <img src="assets/logo.svg" alt="Quantum Node Factory Logo" width="500"/>
+  <img src="Assets/Logo.svg" alt="Quantum Node Factory Logo" width="500"/>
 </p>
 
 <p align="center">
