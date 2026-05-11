@@ -1,0 +1,30 @@
+<svg width="800" height="240" viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="240" rx="24" fill="#0B1020"/>
+
+  <!-- Quantum Ring -->
+  <circle cx="120" cy="120" r="52" stroke="#61DAFB" stroke-width="6"/>
+  <ellipse cx="120" cy="120" rx="72" ry="28" stroke="#7C3AED" stroke-width="4" transform="rotate(25 120 120)"/>
+  <ellipse cx="120" cy="120" rx="72" ry="28" stroke="#10B981" stroke-width="4" transform="rotate(-25 120 120)"/>
+
+  <!-- Central Node -->
+  <circle cx="120" cy="120" r="12" fill="#FFFFFF"/>
+
+  <!-- Connection Nodes -->
+  <circle cx="70" cy="78" r="7" fill="#61DAFB"/>
+  <circle cx="170" cy="78" r="7" fill="#10B981"/>
+  <circle cx="70" cy="162" r="7" fill="#7C3AED"/>
+  <circle cx="170" cy="162" r="7" fill="#F59E0B"/>
+
+  <!-- Brand Text -->
+  <text x="240" y="105" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">
+    Quantum
+  </text>
+  <text x="240" y="155" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#61DAFB">
+    Node Factor
+  </text>
+
+  <!-- Tagline -->
+  <text x="242" y="190" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94A3B8">
+    Distributed Intelligence • Quantum Scale • Secure Infrastructure
+  </text>
+</svg>
