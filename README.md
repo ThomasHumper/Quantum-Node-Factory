@@ -66,7 +66,7 @@ Here’s a solid **starter repo template** for **Quantum Node Factory**. It’s 
 ---
 
 ## 📁 Quantum Node Factory – Repo Template
-
+```
 ```
 QuantumNodeFactory/
 │
