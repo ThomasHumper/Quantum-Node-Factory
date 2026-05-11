@@ -1,3 +1,64 @@
+# Quantum Node Factory
+
+<p align="center">
+  <img src="assets/logo.svg" alt="Quantum Node Factory Logo" width="500"/>
+</p>
+
+<p align="center">
+  Experimental autonomous node simulation framework
+</p>
+
+---
+
+## Overview
+
+Quantum Node Factory is an experimental systems framework for generating and simulating autonomous computational nodes with evolving state, behaviour rules, and event-driven interactions.
+
+The framework focuses on:
+
+- Scalable node orchestration
+- Blueprint-driven node construction
+- Modular simulation architecture
+- Emergent system modelling
+- Event-based interaction pipelines
+- Autonomous state evolution
+
+---
+
+## Features
+
+- Dynamic node generation
+- Stateful simulation engine
+- Modular behaviour systems
+- Event-driven execution
+- Extensible blueprint architecture
+- Scalable orchestration model
+
+---
+
+## Project Goals
+
+Quantum Node Factory is designed for experimentation in:
+
+- Distributed simulation systems
+- Emergent computational behaviour
+- Adaptive autonomous agents
+- Complex systems modelling
+- Procedural infrastructure generation
+
+---
+
+## Repository Structure
+
+```text
+/assets         -> branding and static assets
+/core           -> simulation engine
+/nodes          -> node definitions
+/blueprints     -> construction templates
+/events         -> event system
+/orchestrator   -> node orchestration logic
+/examples       -> demo simulations
+
 ![Quantum Node Factor Logo](Assets/Logo.svg)
 
 Here’s a solid **starter repo template** for **Quantum Node Factory**. It’s structured like a real systems/engine-style project, but still flexible so you can evolve it into whatever the “quantum node” concept becomes.
