@@ -1,0 +1,49 @@
+{
+  "quantum_network": {
+    "network_name": "Quantum Node Factory",
+    "version": "1.0.0",
+    "max_nodes": 128,
+    "auto_entanglement": true,
+    "probability_decay": 0.015,
+
+    "nodes": [
+      {
+        "id": 101,
+        "label": "Alpha-Core",
+        "probability": 0.87,
+        "entanglement": "Alpha-Link",
+        "state": "active",
+        "energy_level": 94.2
+      },
+      {
+        "id": 202,
+        "label": "Beta-Relay",
+        "probability": 0.63,
+        "entanglement": "Beta-Entanglement",
+        "state": "active",
+        "energy_level": 78.5
+      },
+      {
+        "id": 303,
+        "label": "Gamma-Field",
+        "probability": 0.91,
+        "entanglement": "Gamma-Field",
+        "state": "stabilizing",
+        "energy_level": 99.1
+      }
+    ],
+
+    "blockchain_agents": {
+      "enabled": true,
+      "synchronization_interval_ms": 500,
+      "consensus_protocol": "QPoS",
+      "agent_count": 8
+    },
+
+    "security": {
+      "quantum_encryption": true,
+      "signature_algorithm": "QRSA-4096",
+      "node_verification": true
+    }
+  }
+}
